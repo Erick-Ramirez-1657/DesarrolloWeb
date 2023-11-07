@@ -1,0 +1,50 @@
+/* Contenedor Principal */
+.container {
+    margin: 20px;
+    background: linear-gradient(180deg, rgb(188, 188, 193), white);
+}
+
+/* Para Títulos Generales */
+h2 {
+    text-align: center;
+}
+
+/* Para Títulos Secundarios */
+h3 {
+    color: midnightblue;
+}
+
+/* Para el texto en general */
+p {
+    text-align: justify;
+    margin: 5px;
+}
+
+img{
+    border: 2px solid black;
+}
+
+/* Imagenes que se muestren junto al textos */
+.imagenedit{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+/* Textos que se muestren junto a imagenes */
+.textodiv{
+    display: inline-block;
+    height: 15%;
+    width: 80%;
+    background: linear-gradient(180deg, rgb(221, 221, 226), white);
+}
+
+*{
+    font-family: arial;
+    color:black;
+}
+
+.botmen{
+    background: linear-gradient(-90deg, rgb(188, 188, 193), white);
+}
